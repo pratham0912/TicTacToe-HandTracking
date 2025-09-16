@@ -1,4 +1,4 @@
-cat <<EOL > README.md
+
 # TicTacToe-HandTracking
 
 **Play Tic Tac Toe using your hand! No mouse or keyboard required.**
@@ -20,16 +20,9 @@ This Python project allows you to play Tic Tac Toe using **hand gestures**. The 
 
 ## Installation
 
-1. **Clone the repository:**
+ **Install required libraries:**
 
-\`\`\`bash
-git clone https://github.com/pratham0912/TicTacToe-HandTracking.git
-cd TicTacToe-HandTracking
 \`\`\`
-
-2. **Install required libraries:**
-
-\`\`\`bash
 pip install opencv-python cvzone
 \`\`\`
 
@@ -42,7 +35,7 @@ pip install opencv-python cvzone
 1. Run the Python script:
 
 \`\`\`bash
-python tic_tac_toe_hand.py
+python TicTacToe_HandTracking.py
 \`\`\`
 
 2. Hover your index finger over a cell for **1 second** to place your move.
@@ -66,4 +59,3 @@ python tic_tac_toe_hand.py
 **Prathamesh Sonwalkar**  
 AIML Student | Robotics Enthusiast  
 
-EOL
