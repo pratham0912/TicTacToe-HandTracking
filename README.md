@@ -23,7 +23,7 @@ This Python project allows you to play Tic Tac Toe using **hand gestures**. The 
 1. **Clone the repository:**
 
 \`\`\`bash
-git clone https://github.com/<USERNAME>/TicTacToe-HandTracking.git
+git clone https://github.com/pratham0912/TicTacToe-HandTracking.git
 cd TicTacToe-HandTracking
 \`\`\`
 
